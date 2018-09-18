@@ -5,3 +5,5 @@ To Do List
 - [X] Add background
 - [ ] Find and add videos
 - [ ] Make it look organized
+- [X] Add images to "Fortnite" section
+- [X] 
