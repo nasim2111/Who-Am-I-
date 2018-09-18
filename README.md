@@ -9,3 +9,6 @@
 - [X] Type a description for each category, describe what it means and how it relates
 to me.
 - [X] Make a cool design for the website title.
+- [ ] Make the website a "modern" theme.
+- [ ] Write full name, also write your birth date and where you with born.
+- [ ] Talk about personality more and detail it.
