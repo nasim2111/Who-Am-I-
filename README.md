@@ -5,5 +5,7 @@ To Do List
 - [X] Add background
 - [ ] Find and add videos
 - [ ] Make it look organized
-- [X] Add images to "Fortnite" section
-- [X] 
+- [X] Add images to "Fortnite" section 
+- [X] Type a description for each category, describe what it means and how it relates
+to me.
+- [X] Make a cool design for the website title.
